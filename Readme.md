@@ -7,7 +7,6 @@ Every stage is a standalone script in `src/`, chained together by `main.py`.
 You can also run any stage individually for testing/debugging.
 
 ---
-
 ## 1. Folder structure
 
 ```
